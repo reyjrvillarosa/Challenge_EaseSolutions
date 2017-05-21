@@ -1,0 +1,6 @@
+C:\Projects\Challenge_EaseSolutions\Challenge_EaseSolutions\bin\Debug\Challenge_EaseSolutions.exe.config
+C:\Projects\Challenge_EaseSolutions\Challenge_EaseSolutions\bin\Debug\Challenge_EaseSolutions.exe
+C:\Projects\Challenge_EaseSolutions\Challenge_EaseSolutions\bin\Debug\Challenge_EaseSolutions.pdb
+C:\Projects\Challenge_EaseSolutions\Challenge_EaseSolutions\obj\Debug\Challenge_EaseSolutions.csprojResolveAssemblyReference.cache
+C:\Projects\Challenge_EaseSolutions\Challenge_EaseSolutions\obj\Debug\Challenge_EaseSolutions.exe
+C:\Projects\Challenge_EaseSolutions\Challenge_EaseSolutions\obj\Debug\Challenge_EaseSolutions.pdb
